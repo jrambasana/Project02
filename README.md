@@ -1,0 +1,1 @@
+This is a Sample project as a part of SCM Workshop Day 3.
